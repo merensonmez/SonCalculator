@@ -7,7 +7,6 @@
 - **Platform Support:** Optimized for Windows operating systems
 
 - ## Usage
-
 1. Download the SonCalculator.exe file.
 2. Double-click the downloaded file to launch the application.
 3. Perform your calculations by entering numbers and operations.
